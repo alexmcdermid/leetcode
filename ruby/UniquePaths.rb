@@ -20,8 +20,6 @@
 # Constraints:
 # 1 <= m, n <= 100
 
-
-
 # @param {Integer} m
 # @param {Integer} n
 # @return {Integer}
